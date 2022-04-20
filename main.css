@@ -1,0 +1,36 @@
+body{
+  background-color: antiquewhite;
+}
+
+h2{
+  color: brown;
+}
+
+article {
+  padding: 12px;
+}
+
+#articleOne{
+  font-family: Times;
+  border: 5px dotted lightcoral;
+}
+
+#articleTwo {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 7px double lightpink;
+}
+
+#articleThree {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 6px dashed lightgreen;
+}
+
+#articleFour {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border: 8px solid salmon;
+}
+
+#articleFive {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 9px dotted lightblue;
+}
